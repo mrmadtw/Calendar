@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026農曆初一十五
+X-WR-TIMEZONE:Asia/Taipei
+X-WR-CALDESC:分享者：瘋先生\n網站：https://mrmad.com.tw\n教學：https://mrmad.com.tw/2026
+ -lunar-calendar-reminder
+END:VCALENDAR
